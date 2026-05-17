@@ -1,0 +1,31 @@
+{
+  "source_file": "fnol_005.txt",
+  "extractedFields": {
+    "policy_number": "POL-2024-12009",
+    "policyholder_name": "Deepika Rao",
+    "effective_date_start": "",
+    "effective_date_end": "",
+    "incident_date": "12-Mar-2024",
+    "incident_time": "",
+    "incident_location": "Description: Theft of personal laptop and accessories from vehicle parked near commercial complex.",
+    "incident_description": "Theft of personal laptop and accessories from vehicle parked near commercial complex.",
+    "claimant_name": "Deepika Rao",
+    "third_parties": "Unknown",
+    "claimant_contact": "",
+    "third_party_contact": "",
+    "asset_type": "Electronics",
+    "asset_id": "Estimated Damage: ₹55,000",
+    "estimated_damage": "55000",
+    "claim_type": "Theft",
+    "attachments": "Initial Estimate: ₹55,000",
+    "initial_estimate": "55000"
+  },
+  "missingFields": [
+    "effective_date_start",
+    "effective_date_end",
+    "incident_time",
+    "claimant_contact"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "4 mandatory field(s) are missing: effective date start, effective date end, incident time, claimant contact. Manual review required to complete the record."
+}

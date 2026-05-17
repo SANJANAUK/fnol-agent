@@ -1,0 +1,26 @@
+{
+  "source_file": "fnol_003.txt",
+  "extractedFields": {
+    "policy_number": "POL-2024-33017",
+    "policyholder_name": "Mohammed Farhan",
+    "effective_date_start": "01-Feb-2024",
+    "effective_date_end": "31-Jan-2025",
+    "incident_date": "20-Mar-2024",
+    "incident_time": "09:50",
+    "incident_location": "Whitefield IT Park, Bengaluru",
+    "incident_description": "Slipped and fell on wet floor in office premises. No wet floor signage was present. Sustained injury to left knee and wrist requiring hospitalization.",
+    "claimant_name": "Mohammed Farhan",
+    "third_parties": "Whitefield Tech Park Management",
+    "claimant_contact": "+91-8765432109, farhan.m@techcorp.com",
+    "third_party_contact": "+91-8023456789, admin@wftechpark.com",
+    "asset_type": "Personal Injury",
+    "asset_id": "",
+    "estimated_damage": "32000",
+    "claim_type": "Injury",
+    "attachments": "Medical reports, Hospital bills, Doctor's certificate",
+    "initial_estimate": "32000"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim type is 'Injury', which requires specialist handling. Routed to the injury/medical specialist queue."
+}

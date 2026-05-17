@@ -1,0 +1,35 @@
+FIRST NOTICE OF LOSS - CLAIM FORM
+=====================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-78432
+Policyholder Name: Rajesh Kumar
+Effective Date (Start): 01-Jan-2024
+Effective Date (End): 31-Dec-2024
+
+INCIDENT INFORMATION
+---------------------
+Date of Incident: 15-Mar-2024
+Time of Incident: 14:35
+Location: MG Road, Bengaluru, Karnataka
+Description: Rear-end collision at traffic signal. My vehicle was stationary when another vehicle struck from behind causing damage to the rear bumper and trunk area.
+
+INVOLVED PARTIES
+-----------------
+Claimant: Rajesh Kumar
+Third Party: Anil Sharma
+Contact Details (Claimant): +91-9876543210, rajesh.kumar@email.com
+Contact Details (Third Party): +91-9123456789
+
+ASSET DETAILS
+--------------
+Asset Type: Motor Vehicle
+Asset ID (Vehicle Reg): KA-01-MH-2345
+Estimated Damage: ₹18,500
+
+CLAIM DETAILS
+--------------
+Claim Type: Motor - Accidental Damage
+Attachments: Photos of damage (4 images), FIR copy, Repair estimate from authorized garage
+Initial Estimate: ₹18,500

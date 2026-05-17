@@ -1,0 +1,35 @@
+FIRST NOTICE OF LOSS - CLAIM FORM
+=====================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-33017
+Policyholder Name: Mohammed Farhan
+Effective Date (Start): 01-Feb-2024
+Effective Date (End): 31-Jan-2025
+
+INCIDENT INFORMATION
+---------------------
+Date of Incident: 20-Mar-2024
+Time of Incident: 09:50
+Location: Whitefield IT Park, Bengaluru
+Description: Slipped and fell on wet floor in office premises. No wet floor signage was present. Sustained injury to left knee and wrist requiring hospitalization.
+
+INVOLVED PARTIES
+-----------------
+Claimant: Mohammed Farhan
+Third Party: Whitefield Tech Park Management
+Contact Details (Claimant): +91-8765432109, farhan.m@techcorp.com
+Contact Details (Third Party): +91-8023456789, admin@wftechpark.com
+
+ASSET DETAILS
+--------------
+Asset Type: Personal Injury
+Asset ID: N/A
+Estimated Damage: ₹32,000
+
+CLAIM DETAILS
+--------------
+Claim Type: Injury
+Attachments: Medical reports, Hospital bills, Doctor's certificate
+Initial Estimate: ₹32,000

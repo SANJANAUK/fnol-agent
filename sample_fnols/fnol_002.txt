@@ -1,0 +1,34 @@
+FIRST NOTICE OF LOSS - CLAIM FORM
+=====================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2023-55190
+Policyholder Name: Priya Nair
+Effective Date (Start): 15-Jun-2023
+Effective Date (End): 14-Jun-2024
+
+INCIDENT INFORMATION
+---------------------
+Date of Incident: 10-Mar-2024
+Time of Incident: 03:15
+Location: 42 Palm Grove Avenue, Chennai, Tamil Nadu
+Description: Fire broke out in the kitchen due to a gas leak. The fire spread to the living room before being controlled by fire brigade. Significant structural damage to kitchen, living room, and stored valuables destroyed.
+
+INVOLVED PARTIES
+-----------------
+Claimant: Priya Nair
+Third Party: None
+Contact Details (Claimant): +91-9988776655, priya.nair@gmail.com
+
+ASSET DETAILS
+--------------
+Asset Type: Residential Property
+Asset ID (Property Ref): PROP-CHN-00421
+Estimated Damage: ₹87,000
+
+CLAIM DETAILS
+--------------
+Claim Type: Property - Fire Damage
+Attachments: Fire brigade report, Photos (12 images), Inventory of damaged goods
+Initial Estimate: ₹87,000

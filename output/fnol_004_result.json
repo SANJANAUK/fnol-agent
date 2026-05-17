@@ -1,0 +1,26 @@
+{
+  "source_file": "fnol_004.txt",
+  "extractedFields": {
+    "policy_number": "POL-2023-99201",
+    "policyholder_name": "Sunita Verma",
+    "effective_date_start": "01-Oct-2023",
+    "effective_date_end": "30-Sep-2024",
+    "incident_date": "05-Mar-2024",
+    "incident_time": "23:00",
+    "incident_location": "Outer Ring Road, Hyderabad",
+    "incident_description": "Vehicle collision at night. The details provided seem inconsistent with the physical damage observed. A witness account suggests the accident may have been staged to claim insurance money. The sequence of events described by claimant does not match road conditions.",
+    "claimant_name": "Sunita Verma",
+    "third_parties": "Unknown",
+    "claimant_contact": "+91-7654321098",
+    "third_party_contact": "",
+    "asset_type": "Motor Vehicle",
+    "asset_id": "TS-09-EF-5678",
+    "estimated_damage": "45000",
+    "claim_type": "Motor - Accidental Damage",
+    "attachments": "1 photo only",
+    "initial_estimate": "45000"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Investigation Flag",
+  "reasoning": "Incident description contains suspicious keyword(s): 'inconsistent', 'staged'. Claim flagged for investigation before further processing."
+}

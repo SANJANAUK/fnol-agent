@@ -1,0 +1,26 @@
+{
+  "source_file": "fnol_002.txt",
+  "extractedFields": {
+    "policy_number": "POL-2023-55190",
+    "policyholder_name": "Priya Nair",
+    "effective_date_start": "15-Jun-2023",
+    "effective_date_end": "14-Jun-2024",
+    "incident_date": "10-Mar-2024",
+    "incident_time": "03:15",
+    "incident_location": "42 Palm Grove Avenue, Chennai, Tamil Nadu",
+    "incident_description": "Fire broke out in the kitchen due to a gas leak. The fire spread to the living room before being controlled by fire brigade. Significant structural damage to kitchen, living room, and stored valuables destroyed.",
+    "claimant_name": "Priya Nair",
+    "third_parties": "",
+    "claimant_contact": "+91-9988776655, priya.nair@gmail.com",
+    "third_party_contact": "",
+    "asset_type": "Residential Property",
+    "asset_id": "PROP-CHN-00421",
+    "estimated_damage": "87000",
+    "claim_type": "Property - Fire Damage",
+    "attachments": "Fire brigade report, Photos (12 images), Inventory of damaged goods",
+    "initial_estimate": "87000"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Standard Processing",
+  "reasoning": "All mandatory fields present, no fraud indicators, claim type is not injury, and estimated damage (Rs.87,000) exceeds the fast-track threshold."
+}
