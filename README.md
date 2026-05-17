@@ -58,8 +58,3 @@ json
 }
 
 
-
-
-Field Name: value
-```
-Supported variants: `Policy Number:`, `Policy No:`, `Claimant:`, `Contact Details (Claimant):`, etc.
